@@ -56,13 +56,13 @@ namespace InventoryApi.Controllers
         }
 
 
-        [HttpPut("update/{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, Product product)
+        [HttpPut("update")]
+        public async Task<IActionResult> UpdateProduct(Product product)
         {
-            if (id != product.ProductId)
-            {
-                return BadRequest();
-            }
+            //if (id != product.ProductId)
+            //{
+            //    return BadRequest();
+            //}
 
             _context.Entry(product).State = EntityState.Modified;
 
@@ -72,7 +72,7 @@ namespace InventoryApi.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!ProductExists(id))
+                if (!ProductExists(product.ProductId))
                 {
                     return NotFound();
                 }

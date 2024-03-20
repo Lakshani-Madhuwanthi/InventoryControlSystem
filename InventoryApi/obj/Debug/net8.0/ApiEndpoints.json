@@ -194,16 +194,11 @@
   {
     "ContainingType": "InventoryApi.Controllers.ProductController",
     "Method": "UpdateProduct",
-    "RelativePath": "api/Product/update/{id}",
+    "RelativePath": "api/Product/update",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
       {
         "Name": "product",
         "Type": "InventoryApi.Models.Product",

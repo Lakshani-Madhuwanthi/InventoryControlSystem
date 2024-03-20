@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP.Net projects\\InventoryApi\\InventoryApi.csproj": {}
+    "C:\\ASP.Net projects\\InventoryControlSyatemFullApplication\\InventoryControlSystem\\InventoryApi\\InventoryApi.csproj": {}
   },
   "projects": {
-    "C:\\ASP.Net projects\\InventoryApi\\InventoryApi.csproj": {
+    "C:\\ASP.Net projects\\InventoryControlSyatemFullApplication\\InventoryControlSystem\\InventoryApi\\InventoryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.Net projects\\InventoryApi\\InventoryApi.csproj",
+        "projectUniqueName": "C:\\ASP.Net projects\\InventoryControlSyatemFullApplication\\InventoryControlSystem\\InventoryApi\\InventoryApi.csproj",
         "projectName": "InventoryApi",
-        "projectPath": "C:\\ASP.Net projects\\InventoryApi\\InventoryApi.csproj",
+        "projectPath": "C:\\ASP.Net projects\\InventoryControlSyatemFullApplication\\InventoryControlSystem\\InventoryApi\\InventoryApi.csproj",
         "packagesPath": "C:\\Users\\payme\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.Net projects\\InventoryApi\\obj\\",
+        "outputPath": "C:\\ASP.Net projects\\InventoryControlSyatemFullApplication\\InventoryControlSystem\\InventoryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\payme\\AppData\\Roaming\\NuGet\\NuGet.Config",

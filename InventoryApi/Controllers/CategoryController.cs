@@ -48,10 +48,7 @@ namespace InventoryApi.Controllers
         [HttpPut("update")]
         public async Task<IActionResult> UpdateCategory(Category category)
         {
-            //if (id != category.CategoryId)
-            //{
-            //    return BadRequest();
-            //}
+
 
             _context.Entry(category).State = EntityState.Modified;
 

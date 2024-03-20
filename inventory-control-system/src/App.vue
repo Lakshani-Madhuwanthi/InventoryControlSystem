@@ -1,5 +1,7 @@
 <template>
-  <RouterView />
+  <div class="background">
+    <RouterView />
+  </div>
 </template>
 
 <script>
@@ -15,4 +17,9 @@ export default {
 
 </script>
 
-<style scoped></style>
+<style scoped>
+.background{
+  background-color: rgb(228, 228, 228);
+  min-height: 100vh;
+}
+</style>

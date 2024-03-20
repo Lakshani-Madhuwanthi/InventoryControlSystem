@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbcCEByAf1hXCY+uwe6hQNEN35Tdiwx+Fc3LscVKJ3zAiNtBWkSIsA4XKLBOVwdY7Gnz12CSRffHnSUNUhB/ow==",
+  "dgSpecHash": "cP4CTZPDbpHPsXogsx34vfbvt3FkVPXlny/IlDHYsGwKxeLrvM/36JkhSHoSmJjFpVdPTcv/nEgFbFVqQciRxw==",
   "success": true,
-  "projectFilePath": "C:\\ASP.Net projects\\InventoryApi\\InventoryApi.csproj",
+  "projectFilePath": "C:\\ASP.Net projects\\InventoryControlSyatemFullApplication\\InventoryControlSystem\\InventoryApi\\InventoryApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\payme\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\payme\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
